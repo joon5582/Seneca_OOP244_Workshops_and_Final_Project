@@ -1,4 +1,4 @@
-# Workshop #7: Virtual functions and Abstract base classes
+# Workshop #8: Virtual functions and Abstract base classes
 
 In this workshop, you will create a hierarchy of classes to practice and understand the role of virtual functions in inheritance. 
 The workshop consists of 4 classes:  
