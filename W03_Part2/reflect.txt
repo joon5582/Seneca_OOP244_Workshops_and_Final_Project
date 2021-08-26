@@ -1,0 +1,14 @@
+/*
+    ==================================================
+    Workshop #3 (reflect):
+    ==================================================
+    Name   : Junwoo Lee
+    ID     : 124395203
+    Email  : jlee648@myseneca.ca
+    Section: NAA
+*/
+
+During this workshop, I discovered that there was a problem with the strnCpy function in my cstring module. 
+Under certain conditions I missed inserting a null character at the end of the string. This was an error that could not be filtered from the test set in Workshop 1. I realized that the test set had to be made with many cases in mind.
+In this workshop, I learned how to declare and use member variables and member functions of a class using encapsulation.
+And I learned a lot by using formatting through cout class. It was a different concept from the existing C language printf, so I had a lot of difficulties at first, but I was able to use it comfortably after I got used to it.

@@ -1,0 +1,2 @@
+C:\Users\joon5\Desktop\OOP244\MS2\Debug\ms2.exe
+C:\Users\joon5\Desktop\OOP244\MS2\Debug\ms2.pdb

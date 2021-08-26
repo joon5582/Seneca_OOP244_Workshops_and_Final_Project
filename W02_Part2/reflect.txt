@@ -1,0 +1,14 @@
+/*
+    ==================================================
+    Workshop #2 (Part-2):
+    ==================================================
+    Name   : Junwoo Lee
+    ID     : 124395203
+    Email  : jlee648@myseneca.ca
+    Section: NAA
+*/
+
+Through this workshop, I learned how to use reference properly. Reference was a rather difficult concept to understand at first, but I eventually understood and found it to play a role similar to a pointer.
+I also learned about dynamic memory allocation and deletion and applied it in this workshop. This allows us to arbitrarily size the arrays. And I managed to see the difference between the stack memory area and the heap memory area. Also, I learned about file input and output at IPC, but I studied a lot again after reviewing it this time.
+And when sending text files between Windows and Linux, I learned from my professor that I should set options well in ftp. I learned a lot of new things through this workshop, and I look forward to learning more in the future.
+Personally, I hope DIY is much harder than LAB. Because in this DIY I didn't have much to do but copy paste.

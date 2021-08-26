@@ -1,0 +1,15 @@
+/*
+	I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+	==================================================
+	Workshop #4 (Part-2):
+	==================================================
+	Name   : Junwoo Lee
+	ID     : 124395203
+	Email  : jlee648@myseneca.ca
+	Section: NAA
+*/
+
+Through this workshop, I learned how to use constructors and destructors.
+I also realized that it is important to always call a function that defines the default safe state within the constructor, especially when the class has dynamic memory.
+By returning the ostream reference, I learned that the object can be called comprehensively with other elements within cout.
+I learned how to get a string input from a user through the get function.

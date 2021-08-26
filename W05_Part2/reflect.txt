@@ -1,0 +1,17 @@
+/*
+	I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+	==================================================
+	Workshop #5 (Part-2 reflect):
+	==================================================
+	Name   : Junwoo Lee
+	ID     : 124395203
+	Email  : jlee648@myseneca.ca
+	Section: NAA
+*/
+
+I learned how to overload operators in the class in this workshop.
+In particular, casting overloading can cause ambiguity, so I realized that it is important to represent the code clearly.
+And I learned the importance of a safe default state. And also learned how to use the Helper functions. 
+In particular, the difficult part was whether to return the reference or value, and because each situation had the right answer, I always had to make the program thinking about it.
+I wanted to learn until the end of this semester with Fardad, so I'm sorry I couldn't. But I will definitely attend crash class.
+Thank you Fardad!

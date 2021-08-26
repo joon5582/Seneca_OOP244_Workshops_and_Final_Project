@@ -1,0 +1,2 @@
+C:\Users\joon5\Desktop\OOP244\W04_Part1\lab\Debug\lab.exe
+C:\Users\joon5\Desktop\OOP244\W04_Part1\lab\Debug\lab.pdb

@@ -1,0 +1,15 @@
+/*
+	I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+	==================================================
+	Workshop #6 (Part-2 reflect):
+	==================================================
+	Name   : Junwoo Lee
+	ID     : 124395203
+	Email  : jlee648@myseneca.ca
+	Section: NAA
+*/
+
+During this workshop, I felt that it was difficult to meet the exact empty line.
+This is a problem caused by the insertion of \n at the end of the file using saveAs function. So I tried to solve this problem by not putting \n at the end, but in the test program, I had to leave it and solve it in a different way to pass the test.
+Therefore, by changing the condition of the loop, the number of loops in the loadText function is reduced by one and the problem is solved.
+And through this workshop, I learned how to use string class well. And I was able to study the file input and output of c++ in detail.

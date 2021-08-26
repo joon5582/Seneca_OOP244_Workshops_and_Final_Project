@@ -1,0 +1,19 @@
+/*
+    ==================================================
+    Workshop #1 (Part-2):
+    ==================================================
+    Name   : Junwoo Lee
+    ID     : 124395203
+    Email  : jlee648@myseneca.ca
+    Section: NAA
+*/
+
+Through this workshop, I learned how to use the namespace correctly. 
+Although it was initially confusing to set up a namespace for a header file and its corresponding modules, it became familiar through workshops. 
+Part 2 allowed me to revisit the concepts of arrays and pointers.
+Also, I was also able to learn how to make standard input and output on C++.
+I have only taken two classes yet, but I am very satisfied with this class. 
+The professor clearly informs the concept and manages the class dynamically through the active participation of students.
+I'd like to make a suggestion for this class. 
+In addition to the essential tasks that all students have to do, it would be good to give us optional advanced tasks that are difficult. 
+Because there are many students who are very passionate in our class. Successfully performing a difficult programming task would be a very satisfying process.
